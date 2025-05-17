@@ -1,0 +1,19 @@
+**Skills**
+
+Web Development - JavaScript,
+TypeScript, React
+
+Mobile Development - Kotlin,
+React-native
+
+Data Science - python, scikit-
+learn, TensorFlow
+
+Databases - SQL, MongoDB
+
+Low Level Development - c, c++
+
+Backend Development - Java
+Spring Boot, Node.JS
+
+---

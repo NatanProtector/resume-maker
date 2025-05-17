@@ -1,0 +1,40 @@
+**Backend Web Developer**
+*Azrieli College of Engineering*
+*Nov 2023 – Jul 2024*
+
+* Worked as part of a team developing a warehouse management platform for a non-profit. Implemented a notification system to alert users of overdue returns
+* Utilized EmailJS for sending emails, JavaScript, Firebase Cloud Functions, and Firestore for backend logic and data storage
+
+---
+
+**Frontend Web Developer**
+*Freelance*
+*Feb 2025 – Present*
+
+* Currently assisting in the maintenance and development of an online stock exchange simulator, owned by a professional trader
+* Uses vanilla JavaScript, CSS, and HTML
+
+---
+
+**Education**
+*B.Sc. Software Engineering*
+*Azrieli College of Engineering, Jerusalem*
+*Nov 2020 – Present*
+
+---
+
+**GitHub Projects**
+
+* Developed dynamic web applications with JavaScript and Node.js
+* Created interactive websites and implemented API integrations
+* Built machine learning models for classification, regression, and clustering using Python
+* Developed AI players for board games and showcased them on a personal website
+* **GitHub Profile:** [https://github.com/NatanProtector](https://github.com/NatanProtector)
+
+---
+
+**YouTube Channel**
+
+* Showcased Java desktop applications created during the first year of college
+* These projects include GUI-based applications such as simple games and a sudoku solver, developed using Java
+* **YouTube Channel:** [https://www.youtube.com/natanprotector8819](https://www.youtube.com/natanprotector8819)

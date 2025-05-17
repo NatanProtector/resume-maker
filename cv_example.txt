@@ -1,0 +1,39 @@
+**Jane Doe**
+(123) 456-7890 | jane.doe@email.com | linkedin.com/in/janedoe | portfolio.janedoe.com
+
+**Summary**
+
+Highly motivated and creative Front-End Developer with 3+ years of experience building and maintaining responsive, user-friendly websites and web applications.  Proficient in HTML, CSS, JavaScript, React, and various front-end frameworks. Passionate about creating engaging user experiences and staying up-to-date with the latest industry trends.
+
+**Skills**
+
+HTML, CSS, JavaScript, React, Angular, Vue.js, Responsive Design, Git, Web Accessibility, UI/UX Principles, Testing & Debugging, Performance Optimization
+
+**Experience**
+
+**Front-End Developer** | Company A | City, State | June 2020 – Present
+* Developed and maintained multiple websites and web applications using React and other front-end technologies.
+* Implemented responsive design principles to ensure optimal viewing experience across various devices.
+* Collaborated with designers and back-end developers to deliver high-quality products.
+* Improved website performance by optimizing code and implementing caching strategies.
+
+**Junior Front-End Developer** | Company B | City, State | June 2018 – June 2020
+* Assisted senior developers in building and maintaining websites using HTML, CSS, and JavaScript.
+* Contributed to the development of UI components and features.
+* Gained experience in using version control systems like Git.
+
+
+**Education**
+
+**Bachelor of Science in Computer Science** | University Name | City, State | May 2018
+
+
+**Projects**
+
+**Personal Portfolio Website** | portfolio.janedoe.com
+* Developed a personal portfolio website to showcase skills and projects.
+* Implemented responsive design and interactive elements.
+
+**E-commerce Website Project** |  GitHub Repository Link
+* Developed a front-end for an e-commerce website using React.
+* Integrated with a mock API for product data.

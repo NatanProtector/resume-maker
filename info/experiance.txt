@@ -1,0 +1,16 @@
+Education
+B.sc Software Engineering
+Azrieli college of engineering Jerusalem
+Nov 2020 - Present
+GitHub Projects
+* Developed dynamic web applications with JavaScript and Node.js
+* Created interactive websites and implemented API integrations
+* Built machine learning models for classification, regression, and clustering using Python
+* Developed AI players for board games and showcased them on a personal website
+* GitHub Profile: https://github.com/NatanProtector
+
+YouTube Channel
+* Showcased Java desktop applications created during the first year of college.
+* These projects include GUI-based applications such as simple games and a sudoku solver
+* developed using Java
+* YouTube Channel: https://www.youtube.com/natanprotector8819
